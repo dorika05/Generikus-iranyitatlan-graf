@@ -10,5 +10,8 @@ tartoznak egy komponensbe.
 ## Használat
 A projekt Code::Blocks-ban megnyitható (.cbp fájl).
 
+## Dokumentáció
+A részletes dokumentáció a `dokumentacio_iranyitatlan_graf.pdf` fájlban található.
+
 ## Technológiák
 - C++
