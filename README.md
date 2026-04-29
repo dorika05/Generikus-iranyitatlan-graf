@@ -1,0 +1,1 @@
+# Generikus-iranyitatlan-graf
